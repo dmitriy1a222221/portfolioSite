@@ -1,0 +1,66 @@
+{
+    "modal_resume_1" : "Download Ukr",
+    "modal_resume_2" : "Download Eng",
+
+    "nav__link-home": "Home",
+    "nav__link-aboutMe": "About me",
+    "nav__link-education": "Education",
+    "nav__link-work": "Work",
+    "nav__link-skills": "Skills",
+    "nav__link-myWorks": "My works",
+    "nav__link-contact": "Contact me",
+    "hello": "Hello!",
+    "myName_part1": "I'm",
+    "myName_part2": "Dmitriy Kasyanchuk",
+    "thePost": "Front-end developer",
+
+    "about-me__description": "Hello! I'm Dmitry Kasyanchuk. Web Developer with over 1 year of experience. Experienced with all stages of the development cycle for dynamic web projects. Having an in-depth knowledge including advanced HTML5, CSS3, JavaScript, React JS.",
+    "about-me__title": "About me",
+    "about-me__contact-name": "Dmitriy Kasyanchuk",
+    "about-me_green-name": "NAME:",
+    "about-me__contact-date": "02 November 1998",
+    "about-me_green-date": "Date of birth:",
+    "about-me__contact-nationality": "Citizen of Ukraine",
+    "about-me_green-nationality": "Nationality:",
+    "about-me__contact-phone": "+380663485798, +380980384584",
+    "about-me_green-phone": "Phone:",
+    "about-me__contact-email": "dmitriy1a222221@gmail.com",
+    "about-me_green-email": "Email:",
+    "resume": "Download Resume",
+    "about-me__interests": "My Interests",
+    "about-me__icon-planing1": "Planing",
+    "about-me__icon-Music": "Music",
+    "about-me__icon-coffee": "Coffee",
+    "about-me__icon-planing2": "Planing",
+    "about-me__icon-sports": "Sports",
+    "about-me__icon-travelling": "Travelling",
+
+    "educationTitle": "Education",
+    "educationNamed-1": "NPU Dragomanova",
+    "named_desc-1": "Sep 2015 - Jun 2019",
+    "list-item__desc-1": "At this university he studied at the Faculty of Informatics, got knowledge of such disciplines as programming, information communication technologies, higher mathematics.",
+    "educationNamed-2": "Main Academy",
+    "named_desc-2": "Nov 2017 - Jun 2018",
+    "list-item__desc-2": "Studying the direction of the front-end, here I learned how to design the sites using the stack of the latest web technologies.",
+
+    "experienceTitle": "Work Experience",
+    "experienceNamed-1": "NPU Dragomanova",
+    "exper-named__desc-1": "Sep 2015 - Jun 2019",
+    "exper-list-item__desc-1": "At this university he studied at the Faculty of Informatics, got knowledge of such disciplines as programming, information communication technologies, higher mathematics.",
+    "experienceNamed-2": "Main Academy",
+    "exper-named__desc-2": "Nov 2017 - Jun 2018",
+    "exper-list-item__desc-2": "Studying the direction of the front-end, here I learned how to design the sites using the stack of the latest web technologies.",
+
+    "prof-skills": "Professional Skills",
+
+    "portfolio__title": "Some of my works",
+
+    "contact__title": "Contact Me",
+    "input_name": "NAME",
+    "input__email": "EMAIL",
+    "input_message": "MESSAGE",
+    "btn_send": "Send now",
+
+    "copyright": "Dmitriy © 2017. ALL RIGHTS RESERVED."
+
+}

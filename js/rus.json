@@ -1,0 +1,67 @@
+{
+    "modal_resume_1" : "Скачать Укр",
+    "modal_resume_2" : "Скачать Англ",
+
+    "nav__link-home": "Главная",
+    "nav__link-aboutMe": "О мне",
+    "nav__link-education": "Образование",
+    "nav__link-work": "Работа",
+    "nav__link-skills": "Навыки",
+    "nav__link-myWorks": "Мои работы",
+    "nav__link-contact": "Мои контакты",
+    "hello": "Привет!",
+    "myName_part1": "Я",
+    "myName_part2": "Дмитрий Касянчук",
+    "thePost": "Front-end разработчик",
+
+    "about-me__description": "Здравствуйте! Я Дмитрий Касянчук. Веб-разработчик с более чем 1-летним опытом. Имею опыт со всеми этапами цикла разработки динамических веб-проектов. Также имею углубленное знания HTML5, CSS3, JavaScript, React JS.",
+    "about-me__title": "О Мне",
+    "about-me__contact-name": "Дмитрий Касянчук",
+    "about-me_green-name": "ИМЯ:",
+    "about-me__contact-date": "02 Ноября 1998",
+    "about-me_green-date": "Дата рождения:",
+    "about-me__contact-nationality": "Гражданин Украины",
+    "about-me_green-nationality": "Гражданство:",
+    "about-me__contact-phone": "+380663485798, +380980384584",
+    "about-me_green-phone": "Телфон:",
+    "about-me__contact-email": "dmitriy1a222221@gmail.com",
+    "about-me_green-email": "Email:",
+    "resume": "Скачать Резюме",
+    "about-me__interests": "Мои Интересы",
+    "about-me__icon-planing1": "Самолёты",
+    "about-me__icon-Music": "Музыка",
+    "about-me__icon-coffee": "Кофе",
+    "about-me__icon-planing2": "Самолёты",
+    "about-me__icon-sports": "Спорт",
+    "about-me__icon-travelling": "Путишествия",
+
+    "educationTitle": "Образование",
+    "educationNamed-1": "НПУ Драгоманова",
+    "named_desc-1": "Сентябрь 2015 - Июнь 2019",
+    "list-item__desc-1": "В этом университете я учился на факультете Информатики, получил знания с таких дисциплин, как програмирование, информационно-кумуникацийни технологии, высшая матиматика.",
+    "educationNamed-2": "Main Academy",
+    "named_desc-2": "Ноябрь 2017 - Июль 2018",
+    "list-item__desc-2": "Учился за направлением Front-end, здесь я научился разрабатывать сайты с помощью стека веб-технологий",
+
+
+    "experienceTitle": "Рабочий Опыт",
+    "experienceNamed-1": "НПУ Драгоманова",
+    "exper-named__desc-1": "Сентябрь 2015 - Июнь 2019",
+    "exper-list-item__desc-1": "В этом университете я учился на факультете Информатики, получил знания с таких дисциплин, как програмирование, информационно-кумуникацийни технологии, высшая матиматика.",
+    "experienceNamed-2": "Main Academy",
+    "exper-named__desc-2": "Ноябрь 2017 - Июнь 2018",
+    "exper-list-item__desc-2": "Учился за направлением Front-end, здесь я научился разрабатывать сайты с помощью стека веб-технологий",
+
+    "prof-skills": "Професиональные Навыки",
+
+    "portfolio__title": "Некоторые мои работы",
+
+    "contact__title": "Мои Контакты",
+    "input_name": "ИМЯ",
+    "input__email": "ПОЧТА",
+    "input_message": "СООБЩЕНИЕ",
+    "btn_send": "Отправить",
+
+    "copyright": "Dmitriy © 2017. ВСЕ ПРАВА ЗАЩИЩЕНЫ."
+
+}
