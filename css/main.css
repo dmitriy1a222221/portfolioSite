@@ -497,7 +497,7 @@
         -webkit-transform: rotate(-45deg);
             -ms-transform: rotate(-45deg);
                 transform: rotate(-45deg); }
-      .wrapp-about-me .about-me .about-me__interests-icon li:last-child {
+      .wrapp-about-me .about-me .about-me__interests-icon li {
         max-width: 95px; }
       .wrapp-about-me .about-me .about-me__interests-icon li {
         margin: 0; }
