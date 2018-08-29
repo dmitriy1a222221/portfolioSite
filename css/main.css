@@ -155,6 +155,7 @@
 .modal {
   width: 40%;
   min-width: 220px;
+  max-width: 546px;
   background-color: #22252c;
   -webkit-border-radius: 10px;
           border-radius: 10px;
